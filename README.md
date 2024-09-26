@@ -1,5 +1,6 @@
 # levente-pechal.github.io
 
+
 # Címsor 1
 ## Címsor 2 
 ### Címsor 3
@@ -52,3 +53,36 @@ p {color: red; }
 ``` python
 szám = int(input("szám"))
 ```
+
+pipe karakterek AltGr + W
+
+Fejléc | fejléc
+----------|-----------
+adatok | adatok
+.... | ....
+stb. | stb.
+
+## Szövegformázások (inline)
+
+*dőlt*
+
+**félkövér**
+
+_dőlt_
+
+__félkövér__
+
+
+~~AltGr +1 kihúzás~~
+
+## linkek
+
+https://umszki.hu/
+
+[link szövege](https://umszki.hu/)
+
+### Kép beszúrása
+
+![távoli kép](https://i.ytimg.com/vi/zluwJsU4dBs/maxresdefault.jpg)
+
+
